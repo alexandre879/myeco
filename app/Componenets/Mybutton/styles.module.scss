@@ -1,0 +1,47 @@
+.myButton {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    border: 0px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.myInput {
+    width: 150px;
+    height: 40px;
+
+}
+
+.myError {
+    font-size: 20px;
+    color: red;
+}
+
+.myContainer {
+    display: flex;
+    gap: 10px;
+}
+
+.myContainerParent {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.myList {
+    padding-left: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.mapedList {
+    cursor: pointer;
+}
+
+
+.active {
+    color: red;
+}
