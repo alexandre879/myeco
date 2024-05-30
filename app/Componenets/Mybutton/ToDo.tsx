@@ -47,7 +47,7 @@ export default () => {
             <div className={styles.myContainer} >
                 <input value={name} type="text" onChange={onChange} className={styles.myInput} />
                 <button onClick={onClick} className={styles.myButton} >
-                    Add
+                    Add vaooooo
                 </button>
             </div>
             <ul className={styles.myList} >
